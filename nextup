@@ -1,3 +1,1 @@
-last nextup not done here
-this time we emitted events and captured them server side
-nextup: broadcasting :P
+nextup : broadcasting a message to connected users when someone connects or disconnects
